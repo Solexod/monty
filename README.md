@@ -64,5 +64,4 @@ Description of each file
 
 ## Authors
 
-* [Vianney Yovo](https://github.com/vianneyyovo/)
-* [Nnenna Kalu Ali](https://github.com/Kalunnenna1)
+* [Solomon Damilare Samson](https://github.com/solexod
